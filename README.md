@@ -42,7 +42,7 @@ Each game can also run independently.
 ### 1. Snake
 
 - Description: Classic Snake game where the player controls a snake to eat food and grow. There is an option in the settings to change the color of the snake.
-- File: [Snake/](Snake/)
+- File: [snake/](snake/)
 - Run: `javac SnakeGameFrame.java && java SnakeGameFrame`
 
 ### 2. Pong
@@ -54,7 +54,7 @@ Each game can also run independently.
 ### 3. Pong4Two
 
 - Description: Two-player Pong game with paddles on both sides for multiplayer fun.
-- File: [Pong4Two/](Pong4Two/)
+- File: [Pong2/](Pong2/)
 - Run: `javac Pong4TwoGameFrame.java && java Pong4TwoGameFrame`
 
 ### 4. Tic Tac Toe
